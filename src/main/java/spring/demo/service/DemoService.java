@@ -1,9 +1,9 @@
-package spring.demo.service;
+﻿package spring.demo.service;
 
 import org.springframework.stereotype.Service;
 
 @Service
-public clas DemoService {
+public class DemoService {
 
 	public String Verify(String username,String password){
 		

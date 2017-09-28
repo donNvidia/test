@@ -3,7 +3,7 @@ package spring.demo.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class DemoService {
+public lass DemoService {
 
 	public String Verify(String username,String password){
 		
